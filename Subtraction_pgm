@@ -1,0 +1,9 @@
+#include<stdio.h>
+
+int main()
+{
+int a=9,b=2,Diff=0;
+Diff=a-b;
+printf("Difference = %d", Diff);
+return 0;
+}
